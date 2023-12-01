@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://count.getloli.com/get/@pwnengine" alt="pwnengine" />
 <div align="center">
   <p align = "center"> I'm a software developer / computer enthusiast and have been teaching myself new technologies since middle school, so about 8 years of learning. I love that tech never stops evolving and I never run out of new things to learn!  </p>
 
