@@ -1,7 +1,7 @@
-<p align="center">
-### Hi there 👋
+<p align="center" style="font-weight: bold">
+Hi there 👋
 </p>
-<p>
+<p align="center">
 <img src="https://count.getloli.com/get/@pwnengine" alt="pwnengine" />
 </p>
 <div align="center">
