@@ -2,9 +2,19 @@
 
 <div align="center">
   <p align = "center"> I'm a software developer / computer enthusiast and have been teaching myself new technologies since middle school, so about 8 years of learning. I love that tech never stops evolving and I never run out of new things to learn!  </p>
+
+  <div>
+    <p>
+- 🔭 I’m currently working on multiple projects and anything that interests me :)
+- 🌱 I’m currently learning JS frameworks.
+- 👯 I’m looking to collaborate
+- 📫 How to reach me: pwnengine@tuta.io
+        
+    </p>
+  </div>
+  
   <p align = "center"> 
     <img style="margin: 5px" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" alt="OpenZeppelin" />
-    <img style="margin: 5px" src="https://tinyurl.com/yjs68jbs" alt="HardHat" />
     <img style="margin: 5px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
     <img style="margin: 5px" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
      <img style="margin: 5px" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" alt="PowerShell" height="30" />  
