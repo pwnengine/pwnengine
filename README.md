@@ -3,11 +3,11 @@
 <div align="center">
   <p align = "center"> I'm a software developer / computer enthusiast and have been teaching myself new technologies since middle school, so about 8 years of learning. I love that tech never stops evolving and I never run out of new things to learn!  </p>
 
- <div style="align-text: left">
-- 🔭 I’m currently working on multiple projects and anything that interests me :)
-- 🌱 I’m currently learning JS frameworks.
-- 👯 I’m looking to collaborate
-- 📫 How to reach me: pwnengine@tuta.io
+ <div style="text-align: left">
+- 🔭 I’m currently working on multiple projects and anything that interests me :) <br/>
+- 🌱 I’m currently learning JS frameworks. <br/>
+- 👯 I’m looking to collaborate <br/>
+- 📫 How to reach me: pwnengine@tuta.io <br/>
         
   </div>
   
