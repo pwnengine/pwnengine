@@ -14,12 +14,12 @@ Hi there 👋
         
   </p>
 
-  <p>OS:</p>
+  <p align="center">OS:</p>
   <p align = "center"> 
     <img style="margin: 5px" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
   </p>
 
-  <p>Languages:</p>
+  <p align="center">Languages:</p>
   <p align = "center"> 
     <img style="margin: 5px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img style="margin: 5px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -28,7 +28,7 @@ Hi there 👋
     <img style="margin: 5px" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   </p>
 
-   <p>Stack:</p>
+   <p align="center">Stack:</p>
   <p align = "center"> 
     <img style="margin: 5px" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
     <img style="margin: 5px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
