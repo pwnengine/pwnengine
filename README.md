@@ -5,7 +5,7 @@ Hi there 👋
 <img src="https://count.getloli.com/get/@pwnengine" alt="pwnengine" />
 </p>
 <div align="center">
-  <p align = "center" style="width: 100px"> I'm a software developer / computer enthusiast with interests in security and have been teaching myself new technologies since middle school, so about 9 years of programming. I love that tech never stops evolving and I never run out of new things to learn!  </p>
+  <p align = "center" style="width: 50px"> I'm a software developer / computer enthusiast with interests in security and have been teaching myself new technologies since middle school, so about 9 years of programming. I love that tech never stops evolving and I never run out of new things to learn!  </p>
 
  <p style="align: left">
 - 🔭 I’m currently working on multiple projects and anything that interests me :) <br/>
