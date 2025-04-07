@@ -14,7 +14,7 @@ Hi there 👋
         
   </p>
 
-  <p align="center">OS:</p>
+  <p align="center">OS btw:</p>
   <p align = "center"> 
     <img style="margin: 5px" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
   </p>
