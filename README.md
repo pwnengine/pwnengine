@@ -5,7 +5,7 @@ Hi there 👋
 <img src="https://count.getloli.com/get/@pwnengine" alt="pwnengine" />
 </p>
 <div>
-  <p align = "center"> My name is PwnEngine, I'm a security researcher and I.T. professional. Welcome to my Github page, while you're here you might as well follow me :).</p>
+  <p align = "center"> My name is PwnEngine, I'm a security researcher and I.T. professional. Welcome to my Github page, while you're here you might as well follow me 🙂.</p>
 
  <p style="align: left">
 - 📫 How to reach me: pwnengine@tuta.io <br/>
