@@ -5,11 +5,9 @@ Hi there 👋
 <img src="https://count.getloli.com/get/@pwnengine" alt="pwnengine" />
 </p>
 <div>
-  <p align = "center"> I'm a software developer / computer enthusiast with interests in security and have been teaching myself new technologies since middle school, so about 9 years of programming. I love that tech never stops evolving and I never run out of new things to learn!  </p>
+  <p align = "center"> My name is PwnEngine, I'm a security researcher and I.T. professional. Welcome to my blog where I'll occasionally post about my research on various topics of Information Security.</p>
 
  <p style="align: left">
-- 🔭 I’m currently working on multiple projects and anything that interests me :) <br/>
-- 👯 I’m looking to collaborate <br/>
 - 📫 How to reach me: pwnengine@tuta.io <br/>
         
   </p>
